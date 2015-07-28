@@ -1,0 +1,14 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+rubygem-uber
+rubygem-bundler
+rubygem-json
+rubygem-minitest
+rubygem-mongoid
+rubygem-multi_json
+rubygem-nokogiri
+rubygem-rake
+rubygem-rdoc
+rubygem-ruby-prof
+rubygem-virtus
+rubygem-test_xml
